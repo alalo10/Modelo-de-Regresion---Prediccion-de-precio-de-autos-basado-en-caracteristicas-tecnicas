@@ -1,0 +1,306 @@
+CarName,fueltype,aspiration,doornumber,carbody,enginetype,cylindernumber,enginesize,boreratio,horsepower,peakrpm,price
+alfa-romero giulia,gas,std,two,convertible,dohc,four,130,3.47,111,5000,13495.0
+alfa-romero stelvio,gas,std,two,convertible,dohc,four,130,3.47,111,5000,16500.0
+alfa-romero Quadrifoglio,gas,std,two,hatchback,ohcv,six,152,2.68,154,5000,16500.0
+audi 100 ls,gas,std,four,sedan,ohc,four,109,3.19,102,5500,13950.0
+audi 100ls,gas,std,four,sedan,ohc,five,136,3.19,115,5500,17450.0
+audi fox,gas,std,two,sedan,ohc,five,136,3.19,110,5500,15250.0
+audi 100ls,gas,std,four,sedan,ohc,five,136,3.19,110,5500,17710.0
+audi 5000,gas,std,four,wagon,ohc,five,136,3.19,110,5500,18920.0
+audi 4000,gas,turbo,four,sedan,ohc,five,131,3.13,140,5500,23875.0
+audi 5000s (diesel),gas,turbo,two,hatchback,ohc,five,131,3.13,160,5500,17859.167
+bmw 320i,gas,std,two,sedan,ohc,four,108,3.5,101,5800,16430.0
+bmw 320i,gas,std,four,sedan,ohc,four,108,3.5,101,5800,16925.0
+bmw x1,gas,std,two,sedan,ohc,six,164,3.31,121,4250,20970.0
+bmw x3,gas,std,four,sedan,ohc,six,164,3.31,121,4250,21105.0
+bmw z4,gas,std,four,sedan,ohc,six,164,3.31,121,4250,24565.0
+bmw x4,gas,std,four,sedan,ohc,six,209,3.62,182,5400,30760.0
+bmw x5,gas,std,two,sedan,ohc,six,209,3.62,182,5400,41315.0
+bmw x3,gas,std,four,sedan,ohc,six,209,3.62,182,5400,36880.0
+chevrolet impala,gas,std,two,hatchback,l,three,61,2.91,48,5100,5151.0
+chevrolet monte carlo,gas,std,two,hatchback,ohc,four,90,3.03,70,5400,6295.0
+chevrolet vega 2300,gas,std,four,sedan,ohc,four,90,3.03,70,5400,6575.0
+dodge rampage,gas,std,two,hatchback,ohc,four,90,2.97,68,5500,5572.0
+dodge challenger se,gas,std,two,hatchback,ohc,four,90,2.97,68,5500,6377.0
+dodge d200,gas,turbo,two,hatchback,ohc,four,98,3.03,102,5500,7957.0
+dodge monaco (sw),gas,std,four,hatchback,ohc,four,90,2.97,68,5500,6229.0
+dodge colt hardtop,gas,std,four,sedan,ohc,four,90,2.97,68,5500,6692.0
+dodge colt (sw),gas,std,four,sedan,ohc,four,90,2.97,68,5500,7609.0
+dodge coronet custom,gas,turbo,two,sedan,ohc,four,98,3.03,102,5500,8558.0
+dodge dart custom,gas,std,four,wagon,ohc,four,122,3.34,88,5000,8921.0
+dodge coronet custom (sw),gas,turbo,two,hatchback,ohc,four,156,3.6,145,5000,12964.0
+honda civic,gas,std,two,hatchback,ohc,four,92,2.91,58,4800,6479.0
+honda civic cvcc,gas,std,two,hatchback,ohc,four,92,2.91,76,6000,6855.0
+honda civic,gas,std,two,hatchback,ohc,four,79,2.91,60,5500,5399.0
+honda accord cvcc,gas,std,two,hatchback,ohc,four,92,2.91,76,6000,6529.0
+honda civic cvcc,gas,std,two,hatchback,ohc,four,92,2.91,76,6000,7129.0
+honda accord lx,gas,std,four,sedan,ohc,four,92,2.91,76,6000,7295.0
+honda civic 1500 gl,gas,std,four,wagon,ohc,four,92,2.92,76,6000,7295.0
+honda accord,gas,std,two,hatchback,ohc,four,110,3.15,86,5800,7895.0
+honda civic 1300,gas,std,two,hatchback,ohc,four,110,3.15,86,5800,9095.0
+honda prelude,gas,std,four,sedan,ohc,four,110,3.15,86,5800,8845.0
+honda accord,gas,std,four,sedan,ohc,four,110,3.15,86,5800,10295.0
+honda civic,gas,std,four,sedan,ohc,four,110,3.15,101,5800,12945.0
+honda civic (auto),gas,std,two,sedan,ohc,four,110,3.15,100,5500,10345.0
+isuzu MU-X,gas,std,four,sedan,ohc,four,111,3.31,78,4800,6785.0
+isuzu D-Max ,gas,std,two,sedan,ohc,four,90,3.03,70,5400,8916.5
+isuzu D-Max V-Cross,gas,std,four,sedan,ohc,four,90,3.03,70,5400,8916.5
+isuzu D-Max ,gas,std,two,hatchback,ohc,four,119,3.43,90,5000,11048.0
+jaguar xj,gas,std,four,sedan,dohc,six,258,3.63,176,4750,32250.0
+jaguar xf,gas,std,four,sedan,dohc,six,258,3.63,176,4750,35550.0
+jaguar xk,gas,std,two,sedan,ohcv,twelve,326,3.54,262,5000,36000.0
+maxda rx3,gas,std,two,hatchback,ohc,four,91,3.03,68,5000,5195.0
+maxda glc deluxe,gas,std,two,hatchback,ohc,four,91,3.03,68,5000,6095.0
+mazda rx2 coupe,gas,std,two,hatchback,ohc,four,91,3.03,68,5000,6795.0
+mazda rx-4,gas,std,four,sedan,ohc,four,91,3.03,68,5000,6695.0
+mazda glc deluxe,gas,std,four,sedan,ohc,four,91,3.08,68,5000,7395.0
+mazda 626,gas,std,two,hatchback,rotor,two,70,3.33,101,6000,10945.0
+mazda glc,gas,std,two,hatchback,rotor,two,70,3.33,101,6000,11845.0
+mazda rx-7 gs,gas,std,two,hatchback,rotor,two,70,3.33,101,6000,13645.0
+mazda glc 4,gas,std,two,hatchback,rotor,two,80,3.33,135,6000,15645.0
+mazda 626,gas,std,two,hatchback,ohc,four,122,3.39,84,4800,8845.0
+mazda glc custom l,gas,std,four,sedan,ohc,four,122,3.39,84,4800,8495.0
+mazda glc custom,gas,std,two,hatchback,ohc,four,122,3.39,84,4800,10595.0
+mazda rx-4,gas,std,four,sedan,ohc,four,122,3.39,84,4800,10245.0
+mazda glc deluxe,diesel,std,four,sedan,ohc,four,122,3.39,64,4650,10795.0
+mazda 626,gas,std,four,hatchback,ohc,four,122,3.39,84,4800,11245.0
+mazda glc,gas,std,four,sedan,ohc,four,140,3.76,120,5000,18280.0
+mazda rx-7 gs,diesel,std,four,sedan,ohc,four,134,3.43,72,4200,18344.0
+buick electra 225 custom,diesel,turbo,four,sedan,ohc,five,183,3.58,123,4350,25552.0
+buick century luxus (sw),diesel,turbo,four,wagon,ohc,five,183,3.58,123,4350,28248.0
+buick century,diesel,turbo,two,hardtop,ohc,five,183,3.58,123,4350,28176.0
+buick skyhawk,diesel,turbo,four,sedan,ohc,five,183,3.58,123,4350,31600.0
+buick opel isuzu deluxe,gas,std,four,sedan,ohcv,eight,234,3.46,155,4750,34184.0
+buick skylark,gas,std,two,convertible,ohcv,eight,234,3.46,155,4750,35056.0
+buick century special,gas,std,four,sedan,ohcv,eight,308,3.8,184,4500,40960.0
+buick regal sport coupe (turbo),gas,std,two,hardtop,ohcv,eight,304,3.8,184,4500,45400.0
+mercury cougar,gas,turbo,two,hatchback,ohc,four,140,3.78,175,5000,16503.0
+mitsubishi mirage,gas,std,two,hatchback,ohc,four,92,2.97,68,5500,5389.0
+mitsubishi lancer,gas,std,two,hatchback,ohc,four,92,2.97,68,5500,6189.0
+mitsubishi outlander,gas,std,two,hatchback,ohc,four,92,2.97,68,5500,6669.0
+mitsubishi g4,gas,turbo,two,hatchback,ohc,four,98,3.03,102,5500,7689.0
+mitsubishi mirage g4,gas,turbo,two,hatchback,ohc,four,110,3.17,116,5500,9959.0
+mitsubishi g4,gas,std,two,hatchback,ohc,four,122,3.35,88,5000,8499.0
+mitsubishi outlander,gas,turbo,two,hatchback,ohc,four,156,3.58,145,5000,12629.0
+mitsubishi g4,gas,turbo,two,hatchback,ohc,four,156,3.59,145,5000,14869.0
+mitsubishi mirage g4,gas,turbo,two,hatchback,ohc,four,156,3.59,145,5000,14489.0
+mitsubishi montero,gas,std,four,sedan,ohc,four,122,3.35,88,5000,6989.0
+mitsubishi pajero,gas,std,four,sedan,ohc,four,122,3.35,88,5000,8189.0
+mitsubishi outlander,gas,turbo,four,sedan,ohc,four,110,3.17,116,5500,9279.0
+mitsubishi mirage g4,gas,std,four,sedan,ohc,four,110,3.17,116,5500,9279.0
+Nissan versa,gas,std,two,sedan,ohc,four,97,3.15,69,5200,5499.0
+nissan gt-r,diesel,std,two,sedan,ohc,four,103,2.99,55,4800,7099.0
+nissan rogue,gas,std,two,sedan,ohc,four,97,3.15,69,5200,6649.0
+nissan latio,gas,std,four,sedan,ohc,four,97,3.15,69,5200,6849.0
+nissan titan,gas,std,four,wagon,ohc,four,97,3.15,69,5200,7349.0
+nissan leaf,gas,std,two,sedan,ohc,four,97,3.15,69,5200,7299.0
+nissan juke,gas,std,two,hatchback,ohc,four,97,3.15,69,5200,7799.0
+nissan latio,gas,std,four,sedan,ohc,four,97,3.15,69,5200,7499.0
+nissan note,gas,std,four,wagon,ohc,four,97,3.15,69,5200,7999.0
+nissan clipper,gas,std,two,hardtop,ohc,four,97,3.15,69,5200,8249.0
+nissan rogue,gas,std,four,hatchback,ohc,four,120,3.33,97,5200,8949.0
+nissan nv200,gas,std,four,sedan,ohc,four,120,3.33,97,5200,9549.0
+nissan dayz,gas,std,four,sedan,ohcv,six,181,3.43,152,5200,13499.0
+nissan fuga,gas,std,four,wagon,ohcv,six,181,3.43,152,5200,14399.0
+nissan otti,gas,std,four,sedan,ohcv,six,181,3.43,152,5200,13499.0
+nissan teana,gas,std,two,hatchback,ohcv,six,181,3.43,160,5200,17199.0
+nissan kicks,gas,turbo,two,hatchback,ohcv,six,181,3.43,200,5200,19699.0
+nissan clipper,gas,std,two,hatchback,ohcv,six,181,3.43,160,5200,18399.0
+peugeot 504,gas,std,four,sedan,l,four,120,3.46,97,5000,11900.0
+peugeot 304,diesel,turbo,four,sedan,l,four,152,3.7,95,4150,13200.0
+peugeot 504 (sw),gas,std,four,wagon,l,four,120,3.46,97,5000,12440.0
+peugeot 504,diesel,turbo,four,wagon,l,four,152,3.7,95,4150,13860.0
+peugeot 504,gas,std,four,sedan,l,four,120,3.46,95,5000,15580.0
+peugeot 604sl,diesel,turbo,four,sedan,l,four,152,3.7,95,4150,16900.0
+peugeot 504,gas,std,four,wagon,l,four,120,3.46,95,5000,16695.0
+peugeot 505s turbo diesel,diesel,turbo,four,wagon,l,four,152,3.7,95,4150,17075.0
+peugeot 504,gas,std,four,sedan,l,four,120,3.46,97,5000,16630.0
+peugeot 504,diesel,turbo,four,sedan,l,four,152,3.7,95,4150,17950.0
+peugeot 604sl,gas,turbo,four,sedan,l,four,134,3.61,142,5600,18150.0
+plymouth fury iii,gas,std,two,hatchback,ohc,four,90,2.97,68,5500,5572.0
+plymouth cricket,gas,turbo,two,hatchback,ohc,four,98,3.03,102,5500,7957.0
+plymouth fury iii,gas,std,four,hatchback,ohc,four,90,2.97,68,5500,6229.0
+plymouth satellite custom (sw),gas,std,four,sedan,ohc,four,90,2.97,68,5500,6692.0
+plymouth fury gran sedan,gas,std,four,sedan,ohc,four,98,2.97,68,5500,7609.0
+plymouth valiant,gas,std,four,wagon,ohc,four,122,3.35,88,5000,8921.0
+plymouth duster,gas,turbo,two,hatchback,ohc,four,156,3.59,145,5000,12764.0
+porsche macan,gas,std,two,hatchback,ohc,four,151,3.94,143,5500,22018.0
+porcshce panamera,gas,std,two,hardtop,ohcf,six,194,3.74,207,5900,32528.0
+porsche cayenne,gas,std,two,hardtop,ohcf,six,194,3.74,207,5900,34028.0
+porsche boxter,gas,std,two,convertible,ohcf,six,194,3.74,207,5900,37028.0
+porsche cayenne,gas,std,two,hatchback,dohcv,eight,203,3.94,288,5750,31400.5
+renault 12tl,gas,std,four,wagon,ohc,four,132,3.46,90,5100,9295.0
+renault 5 gtl,gas,std,two,hatchback,ohc,four,132,3.46,90,5100,9895.0
+saab 99e,gas,std,two,hatchback,ohc,four,121,3.54,110,5250,11850.0
+saab 99le,gas,std,four,sedan,ohc,four,121,3.54,110,5250,12170.0
+saab 99le,gas,std,two,hatchback,ohc,four,121,2.54,110,5250,15040.0
+saab 99gle,gas,std,four,sedan,ohc,four,121,3.54,110,5250,15510.0
+saab 99gle,gas,turbo,two,hatchback,dohc,four,121,3.54,160,5500,18150.0
+saab 99e,gas,turbo,four,sedan,dohc,four,121,3.54,160,5500,18620.0
+subaru,gas,std,two,hatchback,ohcf,four,97,3.62,69,4900,5118.0
+subaru dl,gas,std,two,hatchback,ohcf,four,108,3.62,73,4400,7053.0
+subaru dl,gas,std,two,hatchback,ohcf,four,108,3.62,73,4400,7603.0
+subaru,gas,std,four,sedan,ohcf,four,108,3.62,82,4800,7126.0
+subaru brz,gas,std,four,sedan,ohcf,four,108,3.62,82,4400,7775.0
+subaru baja,gas,std,four,sedan,ohcf,four,108,3.62,94,5200,9960.0
+subaru r1,gas,std,four,sedan,ohcf,four,108,3.62,82,4800,9233.0
+subaru r2,gas,turbo,four,sedan,ohcf,four,108,3.62,111,4800,11259.0
+subaru trezia,gas,std,four,wagon,ohcf,four,108,3.62,82,4800,7463.0
+subaru tribeca,gas,std,four,wagon,ohcf,four,108,3.62,94,5200,10198.0
+subaru dl,gas,std,four,wagon,ohcf,four,108,3.62,82,4800,8013.0
+subaru dl,gas,turbo,four,wagon,ohcf,four,108,3.62,111,4800,11694.0
+toyota corona mark ii,gas,std,two,hatchback,ohc,four,92,3.05,62,4800,5348.0
+toyota corona,gas,std,two,hatchback,ohc,four,92,3.05,62,4800,6338.0
+toyota corolla 1200,gas,std,four,hatchback,ohc,four,92,3.05,62,4800,6488.0
+toyota corona hardtop,gas,std,four,wagon,ohc,four,92,3.05,62,4800,6918.0
+toyota corolla 1600 (sw),gas,std,four,wagon,ohc,four,92,3.05,62,4800,7898.0
+toyota carina,gas,std,four,wagon,ohc,four,92,3.05,62,4800,8778.0
+toyota mark ii,gas,std,four,sedan,ohc,four,98,3.19,70,4800,6938.0
+toyota corolla 1200,gas,std,four,hatchback,ohc,four,98,3.19,70,4800,7198.0
+toyota corona,diesel,std,four,sedan,ohc,four,110,3.27,56,4500,7898.0
+toyota corolla,diesel,std,four,hatchback,ohc,four,110,3.27,56,4500,7788.0
+toyota corona,gas,std,four,sedan,ohc,four,98,3.19,70,4800,7738.0
+toyota corolla,gas,std,four,hatchback,ohc,four,98,3.19,70,4800,8358.0
+toyota mark ii,gas,std,four,sedan,ohc,four,98,3.19,70,4800,9258.0
+toyota corolla liftback,gas,std,two,sedan,ohc,four,98,3.19,70,4800,8058.0
+toyota corona,gas,std,two,hatchback,ohc,four,98,3.19,70,4800,8238.0
+toyota celica gt liftback,gas,std,two,sedan,dohc,four,98,3.24,112,6600,9298.0
+toyota corolla tercel,gas,std,two,hatchback,dohc,four,98,3.24,112,6600,9538.0
+toyota corona liftback,gas,std,two,hardtop,ohc,four,146,3.62,116,4800,8449.0
+toyota corolla,gas,std,two,hardtop,ohc,four,146,3.62,116,4800,9639.0
+toyota starlet,gas,std,two,hatchback,ohc,four,146,3.62,116,4800,9989.0
+toyota tercel,gas,std,two,hardtop,ohc,four,146,3.62,116,4800,11199.0
+toyota corolla,gas,std,two,hatchback,ohc,four,146,3.62,116,4800,11549.0
+toyota cressida,gas,std,two,convertible,ohc,four,146,3.62,116,4800,17669.0
+toyota corolla,gas,std,four,sedan,ohc,four,122,3.31,92,4200,8948.0
+toyota celica gt,diesel,turbo,four,sedan,ohc,four,110,3.27,73,4500,10698.0
+toyota corona,gas,std,four,hatchback,ohc,four,122,3.31,92,4200,9988.0
+toyota corolla,gas,std,four,sedan,ohc,four,122,3.31,92,4200,10898.0
+toyota mark ii,gas,std,four,hatchback,ohc,four,122,3.31,92,4200,11248.0
+toyota corolla liftback,gas,std,two,hatchback,dohc,six,171,3.27,161,5200,16558.0
+toyota corona,gas,std,two,hatchback,dohc,six,171,3.27,161,5200,15998.0
+toyota starlet,gas,std,four,sedan,dohc,six,171,3.27,156,5200,15690.0
+toyouta tercel,gas,std,four,wagon,dohc,six,161,3.27,156,5200,15750.0
+vokswagen rabbit,diesel,std,two,sedan,ohc,four,97,3.01,52,4800,7775.0
+volkswagen 1131 deluxe sedan,gas,std,two,sedan,ohc,four,109,3.19,85,5250,7975.0
+volkswagen model 111,diesel,std,four,sedan,ohc,four,97,3.01,52,4800,7995.0
+volkswagen type 3,gas,std,four,sedan,ohc,four,109,3.19,85,5250,8195.0
+volkswagen 411 (sw),gas,std,four,sedan,ohc,four,109,3.19,85,5250,8495.0
+volkswagen super beetle,diesel,turbo,four,sedan,ohc,four,97,3.01,68,4500,9495.0
+volkswagen dasher,gas,std,four,sedan,ohc,four,109,3.19,100,5500,9995.0
+vw dasher,gas,std,two,convertible,ohc,four,109,3.19,90,5500,11595.0
+vw rabbit,gas,std,two,hatchback,ohc,four,109,3.19,90,5500,9980.0
+volkswagen rabbit,gas,std,four,sedan,ohc,five,136,3.19,110,5500,13295.0
+volkswagen rabbit custom,diesel,turbo,four,sedan,ohc,four,97,3.01,68,4500,13845.0
+volkswagen dasher,gas,std,four,wagon,ohc,four,109,3.19,88,5500,12290.0
+volvo 145e (sw),gas,std,four,sedan,ohc,four,141,3.78,114,5400,12940.0
+volvo 144ea,gas,std,four,wagon,ohc,four,141,3.78,114,5400,13415.0
+volvo 244dl,gas,std,four,sedan,ohc,four,141,3.78,114,5400,15985.0
+volvo 245,gas,std,four,wagon,ohc,four,141,3.78,114,5400,16515.0
+volvo 264gl,gas,turbo,four,sedan,ohc,four,130,3.62,162,5100,18420.0
+volvo diesel,gas,turbo,four,wagon,ohc,four,130,3.62,162,5100,18950.0
+volvo 145e (sw),gas,std,four,sedan,ohc,four,141,3.78,114,5400,16845.0
+volvo 144ea,gas,turbo,four,sedan,ohc,four,141,3.78,160,5300,19045.0
+volvo 244dl,gas,std,four,sedan,ohcv,six,173,3.58,134,5500,21485.0
+volvo 246,diesel,turbo,four,sedan,ohc,six,145,3.01,106,4800,22470.0
+volvo 264gl,gas,turbo,four,sedan,ohc,four,141,3.78,114,5400,22625.0
+synthetic_car_0,diesel,std,two,sedan,ohc,eight,147,2.947849899646388,118,4729,16005.976253644718
+synthetic_car_1,diesel,std,two,convertible,dohc,six,121,3.216425762853353,126,4857,16017.761667653322
+synthetic_car_2,diesel,std,four,convertible,ohc,six,153,3.237467080537772,146,5481,21204.957272580046
+synthetic_car_3,gas,std,two,hatchback,dohc,six,190,3.113385137310163,145,5416,24511.034534277205
+synthetic_car_4,diesel,std,four,hardtop,ohcv,eight,117,3.2864528578501777,49,5115,12124.703529477169
+synthetic_car_5,gas,std,two,sedan,ohcv,six,117,3.4390937313399252,67,5180,15140.168100920051
+synthetic_car_6,gas,std,two,sedan,dohc,eight,192,3.8392701933268434,124,5734,21427.24181190183
+synthetic_car_7,diesel,std,two,wagon,ohcv,six,158,3.377136009464597,124,4842,20233.03424588429
+synthetic_car_8,gas,turbo,two,convertible,dohc,five,107,3.3995386054951466,124,5385,16125.438330521027
+synthetic_car_9,gas,turbo,two,sedan,ohcv,four,149,3.309899602743135,256,5028,27305.02584448464
+synthetic_car_10,gas,std,two,convertible,ohc,five,107,2.8119317718692587,126,5021,17441.17615023419
+synthetic_car_11,gas,std,two,sedan,ohcv,four,107,3.3228412536287113,149,5649,14876.360262481414
+synthetic_car_12,diesel,turbo,four,hatchback,ohc,eight,136,3.346262156684077,141,5518,16350.610953875686
+synthetic_car_13,gas,std,four,hardtop,ohcv,five,61,3.94,129,5512,14538.154147628578
+synthetic_car_14,diesel,std,four,sedan,ohc,six,61,3.278062539509097,91,5747,10736.34072730522
+synthetic_car_15,diesel,std,four,convertible,ohcv,four,103,3.4114177824300755,134,5135,14522.280331218613
+synthetic_car_16,gas,turbo,four,hatchback,ohc,four,84,3.3206278221795844,73,5450,14404.74259533898
+synthetic_car_17,diesel,turbo,two,sedan,dohc,five,139,3.0144569298427264,94,4977,17566.83218669477
+synthetic_car_18,diesel,turbo,two,wagon,dohc,eight,89,3.6385621599190556,84,5279,14622.119608646224
+synthetic_car_19,diesel,turbo,four,hardtop,ohc,five,68,3.5330219188254293,107,5062,11630.152785262839
+synthetic_car_20,gas,turbo,two,sedan,ohcv,eight,187,3.5435786257016226,195,5171,30816.241162487917
+synthetic_car_21,diesel,std,four,hatchback,ohc,eight,117,3.0844653872054204,48,5408,16485.56242118307
+synthetic_car_22,diesel,turbo,four,wagon,ohcv,four,129,3.7087544639527468,131,4734,17737.876799300728
+synthetic_car_23,diesel,std,two,hatchback,dohc,five,67,2.951500213046084,48,6122,10424.75559925516
+synthetic_car_24,gas,std,two,hatchback,ohcv,five,104,3.488451415326073,85,4645,14943.61390207401
+synthetic_car_25,diesel,turbo,two,wagon,dohc,eight,131,3.921423018968694,147,4545,21931.81194246587
+synthetic_car_26,gas,turbo,four,hatchback,ohcv,five,78,3.062555192214714,106,5677,10509.7711458437
+synthetic_car_27,gas,std,two,wagon,ohcv,six,142,3.1770996130072517,61,5502,17275.367387582883
+synthetic_car_28,gas,std,four,sedan,ohcv,six,101,3.356905868573663,75,5422,15077.739986152505
+synthetic_car_29,gas,std,four,wagon,ohc,five,114,3.1940615733886264,130,5424,13358.93428007234
+synthetic_car_30,gas,turbo,four,wagon,ohc,five,101,2.9113208736121443,75,5119,10560.592443772783
+synthetic_car_31,gas,turbo,two,hardtop,dohc,eight,204,3.3485120031976274,112,4697,19917.072000349057
+synthetic_car_32,diesel,turbo,two,wagon,dohc,six,126,3.043177997293952,105,5161,16126.699659172844
+synthetic_car_33,gas,turbo,four,wagon,ohc,six,82,3.457869956271499,78,4802,12808.993147020094
+synthetic_car_34,diesel,turbo,two,sedan,dohc,four,161,3.081755456756873,188,5590,26951.860881386136
+synthetic_car_35,diesel,std,two,hardtop,ohc,eight,76,3.748482289354736,129,5054,13452.213805330854
+synthetic_car_36,gas,turbo,two,convertible,ohcv,four,135,3.118521611069216,48,4731,17860.968299782406
+synthetic_car_37,diesel,std,four,sedan,dohc,six,61,3.2430433906244676,111,4971,8303.417263869374
+synthetic_car_38,diesel,std,four,sedan,dohc,eight,71,3.549649648689811,77,5321,6933.37324359083
+synthetic_car_39,diesel,std,two,convertible,ohc,five,135,2.997666634562832,137,4856,18937.922472642025
+synthetic_car_40,diesel,turbo,four,wagon,dohc,eight,157,3.391414182343115,72,4732,18594.794753187965
+synthetic_car_41,gas,turbo,two,hatchback,dohc,five,134,3.6829285436562555,99,5241,16975.996329619287
+synthetic_car_42,diesel,turbo,two,hardtop,ohcv,five,122,2.8959795266684685,124,5241,13056.072147386443
+synthetic_car_43,gas,std,two,hatchback,dohc,eight,114,3.379851141803722,138,4883,17030.941730258335
+synthetic_car_44,diesel,std,two,convertible,ohcv,five,65,3.400168354447074,56,4900,6103.165991140053
+synthetic_car_45,diesel,std,four,sedan,ohc,four,96,3.541092175379874,90,5235,14606.34799902251
+synthetic_car_46,gas,std,four,sedan,dohc,six,107,2.996023308062918,85,4434,14693.939753979586
+synthetic_car_47,diesel,std,four,hardtop,ohcv,five,170,2.9734767144672456,78,4453,17416.279789525066
+synthetic_car_48,diesel,std,two,sedan,ohc,four,141,3.4709242227165626,173,4782,20376.313100349107
+synthetic_car_49,diesel,turbo,two,sedan,dohc,five,61,3.4101858617729603,120,5023,9377.221798791905
+synthetic_car_50,gas,turbo,two,hardtop,ohc,six,140,3.397633069593387,54,5273,15222.411311437207
+synthetic_car_51,diesel,turbo,four,hardtop,dohc,four,110,3.4235410165641835,140,5828,18907.763356241583
+synthetic_car_52,gas,turbo,two,convertible,ohc,six,98,3.1463933251738077,188,5534,16313.217820476279
+synthetic_car_53,diesel,std,four,sedan,ohc,six,152,3.392708498233471,144,5048,21967.594911205342
+synthetic_car_54,gas,std,four,sedan,ohcv,four,169,3.409129567790644,48,5115,16624.25857376094
+synthetic_car_55,gas,turbo,four,convertible,ohc,four,165,3.137125117132881,84,4646,17572.988947818598
+synthetic_car_56,diesel,std,four,wagon,dohc,four,91,3.8337591180090844,154,5116,15771.571032003676
+synthetic_car_57,diesel,turbo,four,wagon,dohc,eight,114,3.4579348886461827,76,4987,11997.648521892912
+synthetic_car_58,gas,turbo,four,wagon,ohcv,four,140,3.008348055755285,121,5278,17637.575234278727
+synthetic_car_59,gas,turbo,two,convertible,dohc,four,167,3.5072694743311343,134,4730,19417.648656855858
+synthetic_car_60,diesel,std,two,sedan,dohc,four,106,3.0668359490386234,67,5372,16927.1553497739
+synthetic_car_61,gas,turbo,four,convertible,dohc,four,119,3.542512843010462,101,5855,15883.069894063958
+synthetic_car_62,diesel,turbo,four,convertible,ohc,five,80,3.6428208063319993,48,5073,8275.44803542984
+synthetic_car_63,diesel,turbo,two,wagon,ohc,eight,77,3.108415774045038,63,5316,10545.841510145834
+synthetic_car_64,diesel,std,four,hatchback,dohc,six,160,3.590111554895967,94,5454,18947.03843731856
+synthetic_car_65,diesel,std,four,sedan,ohcv,four,183,3.4414508502728545,54,4933,18799.83858126106
+synthetic_car_66,gas,turbo,two,wagon,ohc,five,123,3.5519562431985126,168,5231,20811.745416325233
+synthetic_car_67,diesel,std,four,hatchback,ohcv,five,168,3.842134105316566,48,5131,19096.85530823476
+synthetic_car_68,gas,std,four,hatchback,dohc,five,141,3.263745208679225,86,5171,16050.296922047522
+synthetic_car_69,diesel,std,four,hardtop,dohc,six,100,3.1264912356234777,109,4756,13315.186847647079
+synthetic_car_70,gas,std,two,sedan,ohc,four,141,3.089831104001109,161,5136,20279.660069383754
+synthetic_car_71,diesel,std,two,hatchback,dohc,eight,190,3.109731223059332,48,5362,14981.103507016698
+synthetic_car_72,gas,std,two,wagon,ohc,eight,125,3.309182538458192,150,5817,15760.930949444793
+synthetic_car_73,gas,std,four,hardtop,dohc,five,192,3.422111033200494,104,5582,25243.637861053343
+synthetic_car_74,diesel,std,four,sedan,dohc,six,61,3.404706515819105,65,6151,12044.492823880768
+synthetic_car_75,diesel,std,two,convertible,ohc,six,161,3.5533394772397267,122,4759,20121.668314902316
+synthetic_car_76,diesel,std,four,wagon,ohc,six,130,3.333510510807035,111,5541,18498.872537189654
+synthetic_car_77,diesel,turbo,four,hatchback,ohc,eight,114,3.7224542008324755,80,5212,14941.31159633825
+synthetic_car_78,gas,turbo,four,hatchback,dohc,five,130,3.258542655025752,106,6169,23265.643025080193
+synthetic_car_79,diesel,std,four,wagon,dohc,four,61,3.94,88,4739,12172.384841873452
+synthetic_car_80,gas,turbo,four,hatchback,ohcv,eight,117,3.498930183896552,108,4724,15771.346241740326
+synthetic_car_81,gas,turbo,two,hardtop,ohc,five,141,3.0985674597676036,130,4839,17362.266535324678
+synthetic_car_82,diesel,std,four,sedan,dohc,five,188,3.0408590255235,166,4150,22087.21832707752
+synthetic_car_83,gas,std,two,hardtop,dohc,four,105,3.4602675521156603,55,4874,12643.496560551444
+synthetic_car_84,gas,std,four,hatchback,ohc,four,93,3.2696650479620204,188,4762,16300.394864924323
+synthetic_car_85,gas,turbo,two,convertible,ohcv,four,106,3.522780133404865,48,5196,9096.107884267243
+synthetic_car_86,gas,turbo,four,sedan,ohc,six,165,3.4577741586348574,98,5287,18463.33607492989
+synthetic_car_87,diesel,std,two,sedan,ohcv,four,140,3.3103361935826445,127,6019,16858.034768551854
+synthetic_car_88,diesel,std,four,wagon,dohc,five,104,3.1013656961215306,115,5578,18570.474853019936
+synthetic_car_89,diesel,std,two,wagon,ohcv,four,148,2.9209912493348167,79,4849,19081.7235955492
+synthetic_car_90,diesel,turbo,four,convertible,dohc,five,130,3.2094409629419043,95,4696,16562.40485234715
+synthetic_car_91,gas,turbo,two,sedan,ohc,eight,167,3.5612276744673377,84,5359,22241.319396480598
+synthetic_car_92,gas,turbo,four,convertible,ohc,six,97,3.387805310915155,80,4495,12984.548316201764
+synthetic_car_93,diesel,turbo,two,wagon,ohc,eight,113,2.993650529747763,137,5998,15355.148282564243
+synthetic_car_94,diesel,std,two,wagon,ohcv,eight,110,3.376758849979819,118,5687,18908.60325561414
+synthetic_car_95,diesel,std,four,sedan,dohc,five,65,3.434035692526786,76,4901,10849.269197919077
+synthetic_car_96,gas,std,four,hardtop,ohc,eight,139,3.091358492225694,139,4308,17439.756995405827
+synthetic_car_97,diesel,std,two,hatchback,ohc,five,137,3.3715057786052927,116,5770,17831.184534627195
+synthetic_car_98,diesel,turbo,four,wagon,dohc,four,127,3.34571635398042,136,5070,16500.955092288397
+synthetic_car_99,diesel,turbo,two,wagon,ohc,four,117,3.0213980195857317,128,5715,14226.03801751761
