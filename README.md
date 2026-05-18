@@ -1,4 +1,4 @@
-# Predicción del Precio de Automóviles con Machine Learning🏎️
+# Predicción del Precio de Automóviles con Machine Learning
 
 ![Banner del Proyecto](Banner_IA.png)
 
