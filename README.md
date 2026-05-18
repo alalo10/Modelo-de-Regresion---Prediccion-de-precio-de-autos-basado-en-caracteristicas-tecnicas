@@ -1,6 +1,6 @@
 # 🏎️ Predicción del Precio de Automóviles con Machine Learning
 
-## Proyecto Final — Inteligencia Artificial I
+![Banner del Proyecto](Banner_IA.png)
 
 ### Estudiantes
 
