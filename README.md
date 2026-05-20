@@ -51,4 +51,4 @@ dichas variables y el valor del vehículo en el mercado estadounidense.
 
 
 ## 🔗 Video explicativo
-> ...
+> https://youtu.be/GOA68I1sXYI
