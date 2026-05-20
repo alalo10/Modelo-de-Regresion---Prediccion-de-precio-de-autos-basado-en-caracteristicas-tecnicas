@@ -4,8 +4,8 @@
 
 ### Estudiantes
 
-- **Angela Lozano Pulido**
-- **Nicolás Cárdenas Rodríguez**
+- **Angela Lozano Pulido - 2221913**
+- **Nicolás Cárdenas Rodríguez 2215508**
 
 ## Planteamiento del problema
 En el mercado automovilístico, el precio de un vehículo suele verse influenciado por factores externos como la marca, la reputación del fabricante, etc. Sin embargo, también existen características técnicas propias del automóvil que pueden incidir de manera significativa en su valor comercial.
